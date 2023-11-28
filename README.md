@@ -10,12 +10,12 @@
 - 엑셀 데이터를 이용한 그래프 생성
 ----
 #### 라이브러리
--
--
+- openpyxl
+- selenium
 -
 ----
 #### 참고 및 출처
--
+- [엑셀](https://github.com/ndb796/Python-Robotic-Process-Automation/tree/main/6)
 -
 -
 
