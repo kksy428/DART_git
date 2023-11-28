@@ -17,7 +17,6 @@ pip install openpyxl
 # 뉴스 크롤링
 pip install requests
 pip install beautifulsoup4
-
 ```
 ----
 #### 참고 및 출처
