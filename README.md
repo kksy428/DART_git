@@ -135,7 +135,7 @@ while (1):
         topfood(f'{name}역맛집')
         break
     else:
-        print(f'{name}역은 7호선에 존재하기 않습니다.')
+        print(f'{name}역은 7호선에 존재하지 않습니다.')
 ```
 ----
 #### 참고 및 출처
