@@ -141,6 +141,10 @@ while (1):
 #### Test
 - exel_example.py는 7호선 역들을 엑셀파일로 자동 저장해주는 예시 코드 입니다. 코드 실행 후 foodgrapy_code.py 코드를 실행하면 정상적으로 작동이 됩니다.
 - 만약 openpyxl을 설치했는데 import가 되지 않을경우 코드위에 붙이면 정상적으로 작동이 됩니다.
+- openpyxl이 설치된 위치
+```
+pip show openpyxl
+```
 ---- 
 #### 참고 및 출처
 - [엑셀](https://github.com/ndb796/Python-Robotic-Process-Automation/tree/main/6)
