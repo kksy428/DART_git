@@ -1,13 +1,3 @@
-import sys
-
-# openpyxl 모듈이 설치된 경로
-openpyxl_path = '/Users/ksy/miniconda3/lib/python3.11/site-packages'
-
-# sys 모듈을 사용하여 모듈을 불러올 수 있는 경로 추가
-sys.path.append(openpyxl_path)
-
-# 이제 openpyxl 모듈을 불러올 수 있음
-import openpyxl
 import openpyxl
 
 # 주어진 역 이름 리스트
