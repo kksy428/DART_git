@@ -30,7 +30,7 @@ from openpyxl import Workbook #그래프
 ```
 ----
 #### 1. 엑셀에서 역 이름 가져와서 리스트 담기
-- 코드를 실행하면 역 이름이 담긴 엑셀파일이 자동저장 됩니다.
+- 역들의 이름이 담긴 엑셀파일을 만들어주세요.
 - 해당 엑셀 파일의 이름을 워크북 불러올때 괄호 안에 적어야 합니다.
 ```
 # 워크북(workbook) 불러오기
@@ -138,6 +138,10 @@ while (1):
         print(f'{name}역은 7호선에 존재하지 않습니다.')
 ```
 ----
+#### Test
+- exel_example.py는 7호선 역들을 엑셀파일로 자동 저장해주는 예시 코드 입니다. 코드 실행 후 foodgrapy_code.py 코드를 실행하면 정상적으로 작동이 됩니다.
+- 만약 openpyxl을 설치했는데 import가 되지 않을경우 코드위에 붙이면 정상적으로 작동이 됩니다.
+---- 
 #### 참고 및 출처
 - [엑셀](https://github.com/ndb796/Python-Robotic-Process-Automation/tree/main/6)
 - [시각화](https://github.com/ndb796/Python-Robotic-Process-Automation/tree/main/8)
