@@ -1,4 +1,5 @@
 #openpyxl을 설치했는데 실행이 안될경우
+import sys
 # openpyxl 모듈이 설치된 경로
 openpyxl_path = 'openpyxl이 설치된 경로'
 
